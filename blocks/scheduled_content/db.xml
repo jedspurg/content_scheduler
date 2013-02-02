@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btScheduledContent">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>	
+		<field name="ctID" type="I">
+		</field>
+	</table>	
+</schema>
